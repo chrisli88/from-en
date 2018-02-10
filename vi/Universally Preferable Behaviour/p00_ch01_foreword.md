@@ -1,14 +1,14 @@
-## Foreword
+## Lời nói đầu
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Trong các câu truyện cổ tích, thường sẽ có một con quái vật khủng khiếp, một con rồng hay một con kỳ đà, tàn phá các vùng đất xung quanh. Những người dân địa phương sẽ run sợ trước con quái vật này; họ hiến tế động vật, trả giá tiền và máu với hy vọng làm dịu các mong muốn giết chóc của những con quái vật này.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Hầu như mọi người đều khúm núm dưới sự cai trị của những con quái vật này,cho rằng nỗi sợ của họ là “thận trọng,” nhưng vẫn có một vài người – dũng cảm hoặc dại dột – đã quyết định chiến đấu. Năm này qua năm khác, thập kỉ này sang thập kỉ khác, hết lớp người đấu tranh này đến lớp người đấu tranh khác đã cố gắng dùng sức mạnh, đức hạnh và sự khôn ngoan để chống lại sự bạo chúa tồi tệ của những con quái vật này.
 
-Try – and fail.
+Cố gắng – và thất bại.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Con quái vật thì lúc nào cũng bất tử, thế dân người dân không thể đợi để thời gian sẽ hủy diệt được nó. Con quái vật cũng không bao giờ sử dụng lí lẽ, và không có ham muốn thực hiện các cuộc giao dịch, vì thế đàm phán với nó là bất khả thi.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Hi vọng duy nhất là những người dân tuyệt vọng này là sự xuất hiện của một người đàn ông để đánh bại con quái vật.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
